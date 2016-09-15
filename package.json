@@ -1,0 +1,19 @@
+{
+  "name": "resume_2016",
+  "version": "1.0.0",
+  "description": "resume page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HongYangHT/resume_2016.git"
+  },
+  "author": "hongyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HongYangHT/resume_2016/issues"
+  },
+  "homepage": "https://github.com/HongYangHT/resume_2016#readme"
+}
